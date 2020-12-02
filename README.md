@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working on Illumination and Shadow. please visit my [website](http://vinthony.github.io) for further details
 
-Very Busy days! I am trying my best to solve the issues!
+Very busy days! I am trying my best to solve the issues!
 
 <!--
 [![Xiaodong Cun's github stats](https://github-readme-stats.vercel.app/api?username=vinthony&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
