@@ -5,7 +5,12 @@
 
 📍 We are hiring research interns for publishing high-quality research papers! See more infromation [here](https://zhuanlan.zhihu.com/p/423801997).
 
-🧸 You may interested in our previous work on various of __image restoration and enhancement algorithms__: [Uformer](https://github.com/ZhendongWang6/Uformer), [Shadow Removal](https://github.com/vinthony/ghost-free-shadow-removal), [Image Harmonization](https://github.com/vinthony/s2am) and [High-resolution Image Harmonization](https://github.com/stefanLeong/S2CRNet).
+
+### For my project,
+
+🧸 You may be interested in my [academic homepage template](https://github.com/vinthony/academic) and [academic project template](https://github.com/vinthony/project-page-template)
+
+🧸 You may be interested in our previous work on various of __image restoration and enhancement algorithms__: [Uformer](https://github.com/ZhendongWang6/Uformer), [Shadow Removal](https://github.com/vinthony/ghost-free-shadow-removal), [Image Harmonization](https://github.com/vinthony/s2am) and [High-resolution Image Harmonization](https://github.com/stefanLeong/S2CRNet).
 
 🧸 I am also working on __audio-driven talking head generation__ of [video portrait editing through audio](https://github.com/vinthony/video-retalking) and [audio-driven single image animation](https://github.com/Winfredy/SadTalker)
 
