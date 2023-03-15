@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on Computational Photography (mainly on Image/Video Editing and Synthesis). please visit my [website](http://vinthony.github.io) for further details.
+🔭 I’m currently working on Image/Video Editing and Synthesis. please visit my [website](http://vinthony.github.io) for further details.
 
 ⏰ Very busy days! I am trying my best to solve the issues!
 
