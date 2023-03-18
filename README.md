@@ -10,7 +10,7 @@
 
 🧸 You may interest in my [academic homepage template](https://github.com/vinthony/academic) and [academic project template](https://github.com/vinthony/project-page-template)
 
-🧸 You may interest in our previous work on various of __image restoration and enhancement algorithms__: [General Backbone](https://github.com/ZhendongWang6/Uformer), [Shadow Removal](https://github.com/vinthony/ghost-free-shadow-removal), [Watermark Removal](https://github.com/vinthony/deep-blind-watermark-removal), [Image Harmonization](https://github.com/vinthony/s2am) and [High-resolution Image Harmonization](https://github.com/stefanLeong/S2CRNet).
+🧸 You may interest in our previous work on various of __image restoration and enhancement algorithms__: [General Backbone](https://github.com/ZhendongWang6/Uformer), [Shadow Removal](https://github.com/vinthony/ghost-free-shadow-removal), [Watermark Removal](https://github.com/vinthony/deep-blind-watermark-removal), [Image Harmonization](https://github.com/vinthony/s2am) and [High-resolution Image Harmonization](https://github.com/stefanLeong/S2CRNet) and [High-resolution image inpainting](https://github.com/NiFangBaAGe/CoordFill).
 
 🧸 I am also working on __audio-driven talking head generation__ of [video portrait editing through audio](https://github.com/vinthony/video-retalking) and [audio-driven single image animation](https://github.com/Winfredy/SadTalker)
 
