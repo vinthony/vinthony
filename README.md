@@ -16,7 +16,7 @@
 
 🧸 I am working on __audio-driven talking head generation__ of [⭐️ video portrait editing](https://github.com/vinthony/video-retalking) and [⭐️ single image animation](https://github.com/Winfredy/SadTalker).
 
-🧸 Currently, I am working on AIGC related application, including: [⭐️ Video Editing](https://github.com/ChenyangQiQi/FateZero).
+🧸 Currently, I am working on AIGC related application, including: [⭐️ Video Editing](https://github.com/ChenyangQiQi/FateZero), [⭐️ Model Personalization](https://github.com/ygtxr1997/CelebBasis).
 
 <!--
 [![Xiaodong Cun's github stats](https://github-readme-stats.vercel.app/api?username=vinthony&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
