@@ -3,10 +3,11 @@
 
 ⏰ Very busy days! I am trying my best to solve the issues!
 
-📍 We are hiring research interns for publishing high-quality research papers! See more infromation [here](https://zhuanlan.zhihu.com/p/423801997).
+📍 We are hiring research interns for publishing high-quality research papers! See more information [here](https://zhuanlan.zhihu.com/p/423801997).
 
 ☕️ You can buy me a [coffee](https://www.buymeacoffee.com/vinthony), if you find my project helpful.
 
+I have cobuild a discord server for text-to-video generation, try the server here: [![Discord](https://dcbadge.vercel.app/api/server/un6SE4Xg?style=flat)](https://discord.gg/un6SE4Xg).
 
 ### For my project,
 
@@ -16,7 +17,7 @@
 
 🧸 I am working on __audio-driven talking head generation__ of [⭐️ video portrait editing](https://github.com/vinthony/video-retalking) and [⭐️ single image animation](https://github.com/Winfredy/SadTalker).
 
-🧸 Currently, I am working on AIGC related application, including: [⭐️ Video Editing](https://github.com/ChenyangQiQi/FateZero), [⭐️ Model Personalization](https://github.com/ygtxr1997/CelebBasis).
+🧸 Currently, I am working on AIGC-related applications, including: [⭐️ Video Editing](https://github.com/ChenyangQiQi/FateZero), [⭐️ Model Personalization](https://github.com/ygtxr1997/CelebBasis).
 
 <!--
 [![Xiaodong Cun's github stats](https://github-readme-stats.vercel.app/api?username=vinthony&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
