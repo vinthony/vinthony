@@ -16,7 +16,7 @@ I have cobuild a discord server for text-to-video generation, try the server her
 🧸 I was working on various of __image restoration and enhancement algorithms__:
   - __Backbone__: [⭐️ Uformer (CVPR 22)](https://github.com/ZhendongWang6/Uformer).
   - __Local Editing__: [⭐️ Shadow Removal (AAAI 20)](https://github.com/vinthony/ghost-free-shadow-removal), [⭐️ Image Harmonization (TIP 21)](https://github.com/vinthony/s2am), [⭐️ Blind Watermark Removal(AAAI 21)](https://github.com/vinthony/deep-blind-watermark-removal).
-  - __High-Res or Efficient Local Editing__:  [⭐️ Harmonization (ECCV 22)](https://github.com/stefanLeong/S2CRNet), [⭐️ Document Shadow (ICCV 23)](TODO), [⭐️ Inpainting (AAAI 23 Oral)](https://github.com/NiFangBaAGe/CoordFill).
+  - __High-Res/Efficient Local Editing__:  [⭐️ Harmonization (ECCV 22)](https://github.com/stefanLeong/S2CRNet), [⭐️ Document Shadow (ICCV 23)](TODO), [⭐️ Inpainting (AAAI 23 Oral)](https://github.com/NiFangBaAGe/CoordFill).
   - __Low-level Structure Detection__: [⭐️ Defocus Blur Detection (ECCV 20)](https://github.com/vinthony/depth-distillation), [⭐️ Explicit Prompt Tuning (CVPR 23)](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt).
 
 🧸 I am also working on __audio-driven talking head generation__:
