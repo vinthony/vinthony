@@ -19,7 +19,7 @@ I have cobuild a discord server for text-to-video generation, try the server her
   - __High-Res/Efficient Local Editing__:  [⭐️ Harmonization (ECCV 22)](https://github.com/stefanLeong/S2CRNet), [⭐️ Document Shadow (ICCV 23)](TODO), [⭐️ Inpainting (AAAI 23 Oral)](https://github.com/NiFangBaAGe/CoordFill).
   - __Low-level Structure Detection__: [⭐️ Defocus Blur Detection (ECCV 20)](https://github.com/vinthony/depth-distillation), [⭐️ Explicit Prompt Tuning (CVPR 23)](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt).
 
-🧸 I am also working on __audio-driven talking head generation__:
+🧸 I am also working on __audio-driven avatar generation__:
   - __Video Portrait Editing__ : [⭐️ video-retalking (SIGGRAPH ASIA 22)](https://github.com/vinthony/video-retalking).
   - __Single image animation__ : [⭐️ SadTalker (CVPR 23)](https://github.com/Winfredy/SadTalker). 
   - __Co-speech Gesture Generation__ : [⭐️ LivelySpeaker (ICCV 23)](https://github.com/zyhbili/LivelySpeaker).
