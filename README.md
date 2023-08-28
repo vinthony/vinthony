@@ -7,7 +7,7 @@
 
 ☕️ You can buy me a [coffee](https://www.buymeacoffee.com/vinthony), if you find my project helpful.
 
-I have cobuild a discord server for text-to-video generation, try the server here: [![Discord](https://dcbadge.vercel.app/api/server/9XtTjynm?style=flat)](https://discord.gg/9XtTjynm).
+I have cobuild a discord server for text-to-video generation, try the server here: [![Discord](https://dcbadge.vercel.app/api/server/rrayYqZ4tf?style=flat)](https://discord.gg/rrayYqZ4tf).
 
 ### For my project,
 
