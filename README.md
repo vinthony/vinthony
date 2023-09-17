@@ -9,7 +9,11 @@
 
 I have cobuild a discord server for text-to-video generation, try the server here: [![Discord](https://dcbadge.vercel.app/api/server/rrayYqZ4tf?style=flat)](https://discord.gg/rrayYqZ4tf).
 
+<!--
+
 ### For my project,
+[![Xiaodong Cun's github stats](https://github-readme-stats.vercel.app/api?username=vinthony&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 🧸 You may interest in my [academic homepage template](https://github.com/vinthony/academic) and [academic project template](https://github.com/vinthony/project-page-template).
 
@@ -28,8 +32,7 @@ I have cobuild a discord server for text-to-video generation, try the server her
   - __Video Editing__ : [⭐️ FateZero (ICCV 23 Oral)](https://github.com/ChenyangQiQi/FateZero).
   - __Portrait Geneartion__ : [⭐️ CeleB-Basis (Arxiv 23)](https://github.com/ygtxr1997/CelebBasis).
 
-<!--
-[![Xiaodong Cun's github stats](https://github-readme-stats.vercel.app/api?username=vinthony&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 **vinthony/vinthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
