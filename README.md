@@ -7,4 +7,4 @@
 
 ☕️ You can buy me a [coffee](https://www.buymeacoffee.com/vinthony), if you find my project helpful.
 
-👌 More interesting projects can be founded at: https://github.com/GVCLab
+👌 More interesting projects can be found at: https://github.com/GVCLab
